@@ -41,14 +41,15 @@ h2 {
 	color: white;
 	font-family: futura;
 	background-color: #00CED1;
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 1.2em;
 	padding-left: 0.7em;
+	padding-top: 0.2em; 
 	padding-bottom: .2em;
 }
 
 h3 { 
-	font-size: 35px; 
+	font-size: 30px; 
 	font-style: italic;
 }
 
