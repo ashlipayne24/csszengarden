@@ -33,7 +33,8 @@ h1{
 	font-size: 100px; 
 	color: black;
 	line-height: normal;
-	font-family: impact; 
+	font-family: futura
+	text-transform: uppercase;; 
 }
 
 h2 {
