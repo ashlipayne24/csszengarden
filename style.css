@@ -5,7 +5,10 @@
 }
 
 body { 
-	background-image: url("http://www.gxdmtl.com/pics/main/24/293163-css-background.jpg");
+	  min-height:100%; 
+  max-width: 100%;
+  background: black;
+  color: black;
    font-size: 16px;
   font-family: futura;
 	} 
@@ -22,7 +25,7 @@ h1 {
 }
 
 p {
-  color: red;
+  color: white;
 }
 
 
