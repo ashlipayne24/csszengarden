@@ -9,24 +9,27 @@ body {
   max-width: 100%;
    font-size: 16px;
   font-family: futura;
-    margin-right: 150px;
-    margin-left: 80px;
+
 	} 
 }
 
 
 h1 {
 	font-size: 30px;
-  color: black; 
+  color: black;
 }
 
 h1 { 
   background-color: #00CED1;
+	    margin-right: 200px;
+    margin-left: 200px;
 
 }
 
 p {
   color: red;
+	  margin-right: 200px;
+    margin-left: 200px;
 
 }
 
@@ -36,7 +39,8 @@ p {
 h2 {
 	font-size: 30px; 
   color: black;
-  
+    margin-right: 200px;
+    margin-left: 200px;
   
 }
 
