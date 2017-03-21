@@ -7,9 +7,9 @@ body {
   min-height:100%; 
   max-width: 100%;
   background: black;
-  color: black;
+  color: white;
   font-size: 16pt;
-  font-family: futura;
+  font-family: helvetica;
 }
 
 h1 {
