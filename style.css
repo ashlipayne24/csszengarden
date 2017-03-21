@@ -33,8 +33,9 @@ h1{
 }
 
 h2 {
-	color: #00CED1;
+	color: white;
 	font-family: futura;
+	background-color: #00CED1;
 	font-size: 15px;
 	line-height: 1.2em;
 	padding-left: 0.7em;
