@@ -7,7 +7,6 @@
 body { 
 	  min-height:100%; 
   max-width: 100%;
-   font-size: 16px;
   font-family: futura;
 
 	} 
@@ -15,19 +14,22 @@ body {
 
 
 h1 {
-	font-size: 30px;
+	font-size: 250%;
   color: black;
+  background-color: #00CED1;
+
 }
 
-h1 { 
-  background-color: #00CED1;
-	    margin-right: 200px;
+h2 {
+	font-size: 150%;  
+  color: black;
+    margin-right: 200px;
     margin-left: 200px;
-
+  
 }
 
 p {
-  color: red;
+  color: 00CED1;
 	  margin-right: 200px;
     margin-left: 200px;
 
@@ -36,13 +38,7 @@ p {
   
 }
 
-h2 {
-	font-size: 30px; 
-  color: black;
-    margin-right: 200px;
-    margin-left: 200px;
-  
-}
+
 
 	
 .center { 
