@@ -2,6 +2,10 @@
    -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
+
+	body { background-image: url("http://www.gxdmtl.com/pics/main/24/293163-css-background.jpg");
+    background-color: #cccccc;
+	} 
 }
 h1 {
   color: white; 
