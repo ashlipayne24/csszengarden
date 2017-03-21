@@ -14,18 +14,13 @@ body {
 
 h1 {
     background: white;
-    font-size: 16px;
-    letter-spacing: 2px;
-    margin: 0 -2.5% 0 -2.5%;
-    padding: 4% 5.5% 0 5.5%;  
+    font-size: 30px;
 }
 h2 {
     background: white;
     font-size: 16px;
     font-style: italic;
-    letter-spacing: 5px;
-    margin: 0 -2.5% 0 -2.5%;
-    padding: 0 5.5% 4% 5.5%;  
+ 
 }
 /*----------navigation-----------*/
 .header {
