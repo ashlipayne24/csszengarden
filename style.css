@@ -13,7 +13,8 @@ body {
 }
 
 h1 {
-    background: white;
+    background: black; 
+	color: white; 
     font-size: 30px;
 }
 h2 {
