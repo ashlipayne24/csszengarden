@@ -34,7 +34,7 @@ h1{
 	color: black;
 	line-height: normal;
 	font-family: futura
-	text-transform: uppercase;; 
+	text-transform: capitalize;
 }
 
 h2 {
