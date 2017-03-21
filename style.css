@@ -30,6 +30,7 @@ body, p, ul, li, td, th, table {
 }
 	
 h1{
+	font-size: 100px; 
 	color: black;
 	line-height: normal;
 }
