@@ -5,11 +5,10 @@
 }
 
 body  {background-image: url("https://thumbs.dreamstime.com/z/abstract-bubbles-background-9564282.jpg");
-    background-color: #cccccc;
+    background-color: white;
 	border-style: dotted; 
 	margin: 0em .5em 0em 0.5em; 
 	padding: 0.3em 0em 0em 1em;
-	background-color: white;
 	margin-left: 200px;
 	margin-right: 200px; 
 }
@@ -32,7 +31,7 @@ body, p, ul, li, td, th, table {
 }
 	
 h1{ 	
-	background-color: white; 
+
 	text-align: center;
 	font-size: 100px; 
 	color: black;
@@ -53,7 +52,7 @@ h2 {	text-align: center;
 	padding-bottom: .2em;
 }
 
-h3 { background-color: white; 
+h3 { 
 	font-size: 30px; 
 	font-style: italic;
 }
