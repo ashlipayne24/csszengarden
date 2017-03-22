@@ -5,6 +5,8 @@
 }
 
 body  {
+	 background-image: url("http://wallpapercave.com/wp/KydjkP5.jpg");
+    background-color: #cccccc;
     background-color: white;
 	
 	margin: 0em .5em 0em 0.5em; 
@@ -61,17 +63,6 @@ p {	color: black;
 	font-family: helvetica;
 	font-size: 16px; 
  
-}
-	
-.design-selection { 
-
-	 float: left;
-    width: 150px;
-    height: 75px;
-    margin: 10px;
-    border: 3px solid #73AD21; 
-	
-	
 }
 	
 .center { 
