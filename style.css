@@ -60,7 +60,10 @@ p {	color: black;
  
 }
 	
-.design-selection { border: 1 em; 
+.design-selection { 
+	border: 1 em solid black; 
+	
+	
 }
 	
 .center { 
