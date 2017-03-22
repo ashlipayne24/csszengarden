@@ -5,7 +5,7 @@
 }
 
 body  {
-	text-align: center;
+	
 	margin: 0em .5em 0em 0.5em; 
 	padding: 0.3em 0em 0em 1em;
 	background-color: white;
@@ -30,7 +30,7 @@ body, p, ul, li, td, th, table {
 	margin-left: 1.2em;
 }
 	
-h1{
+h1{ 	text-align: center;
 	font-size: 100px; 
 	color: black;
 	line-height: normal;
@@ -38,7 +38,7 @@ h1{
 	text-transform: capitalize;
 }
 
-h2 {
+h2 {	text-align: center;
 	color: white;
 	font-family: futura;
 	background-color: #00CED1;
@@ -60,7 +60,7 @@ p {	color: black;
  
 }
 	
-.wrapper { border: 1 em; 
+.design-selection { border: 1 em; 
 }
 	
 .center { 
